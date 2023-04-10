@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Exercicio 03: Faça um Programa que peça dois números e imprima a soma.
 
 class Main {
   public static void main(String[] args) {
